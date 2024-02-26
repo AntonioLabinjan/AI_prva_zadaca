@@ -1,6 +1,7 @@
 ## PRVI ZADATAK
 # numpy ima i automatic funkciju za dijagonalni array
-''' import numpy as np
+'''
+import numpy as np
 dijagonale = []
 for i in range(3):
     brojevi = int(input("unesite brojeve za na dijagonalu arraya "))
